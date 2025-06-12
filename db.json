@@ -1,0 +1,15 @@
+{
+  "Books": [
+    {
+      "id": "6c6b",
+      "title": "book",
+      "author": "author",
+      "genre": "Non-Fiction",
+      "publishedYear": "2019",
+      "status": "Available"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
